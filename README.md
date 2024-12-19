@@ -1,4 +1,4 @@
 # Transfer-Learning-for-Cats-and-Dogs-Classification
-- Developed a Convolutional Neural Network (CNN) to classify breast cancer images, demonstrating expertise in deep learning and medical imaging.
--  Enhanced model performance through data preprocessing, augmentation, and hyperparameter optimization, achieving high accuracy on test data.
--  Utilized Python, TensorFlow/Keras, and Jupyter Notebook for model design, evaluation, and detailed documentation of findings.
+- Applied transfer learning techniques using pre-trained models like VGG16/ResNet to classify cat and dog images, showcasing proficiency in leveraging advanced deep learning architectures.
+-  Improved model performance through fine-tuning and data augmentation, achieving high classification accuracy with efficient training workflows.
+-  Utilized Python, TensorFlow/Keras, and Jupyter Notebook for implementing, evaluating, and documenting the project, ensuring scalability and reproducibility.
